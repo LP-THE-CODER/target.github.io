@@ -11,16 +11,9 @@ Dynamic Visual Effects:
 
 # Raindrops: Experience a calming raindrop animation across your screen. Toggle the rain on and off with the "Stop Rain" button.
 
-Getting Started
-# Follow these steps to run the project locally:
+# Getting Started
+Follow these steps to run the project locally
 
-# Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/target.git
-cd target
-Open the index.html file in your web browser.
 
 Start managing your tasks and enjoy the immersive visual effects.
 
