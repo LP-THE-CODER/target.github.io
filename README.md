@@ -4,7 +4,7 @@ Welcome to "Target" - a delightful web application that blends a to-do list mana
 
 
 # Acceses 
-https://lp-the-coder.github.io/target.github.io/
+(https://lp-the-coder.github.io/target.github.io/)
 # Features
 # To-Do List Management:
 
