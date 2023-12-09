@@ -1,5 +1,6 @@
 # Project Overview
 Welcome to "Target" - a delightful web application that blends a to-do list manager with captivating visual effects. Manage your tasks efficiently while enjoying dynamic raindrops and blooming flowers in the background.
+![Target](png)
 
 # Features
 # To-Do List Management:
