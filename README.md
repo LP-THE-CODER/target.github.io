@@ -1,6 +1,6 @@
 # Project Overview
 Welcome to "Target" - a delightful web application that blends a to-do list manager with captivating visual effects. Manage your tasks efficiently while enjoying dynamic raindrops and blooming flowers in the background.
-![Target](png)
+![Target](https://github.com/LP-THE-CODER/target.github.io/blob/main/Screenshot%202023-12-09%20165522.png)
 
 # Features
 # To-Do List Management:
@@ -10,7 +10,8 @@ Mark tasks as completed by clicking on them.
 Remove tasks with a single click.
 Dynamic Visual Effects:
 
-# Raindrops: Experience a calming raindrop animation across your screen. Toggle the rain on and off with the "Stop Rain" button.
+# Raindrops: 
+Experience a calming raindrop animation across your screen. Toggle the rain on and off with the "Stop Rain" button.
 
 # Getting Started
 Follow these steps to run the project locally
